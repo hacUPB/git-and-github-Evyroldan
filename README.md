@@ -1,11 +1,22 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Evelyn Roldán Rendón
+Id.:  000570373
 ---
-# Evaluación
+#**Contenido de este repositorio**
+Este repositorio tiene distintos archivos, en los que se evidencian los diferentes procesos y comandos para crear un repositorio. El contenido es: 3 carpetas (Src, Docs y e images), con archivos disponibles en cada uno. Además un archivo .gitignore el cual le dice a Git qué archivos o carpetas no debe incluir en el repositorio, como archivos temporales o datos sensibles, para mantener el proyecto seguro.
 
+**Cómo clonar el proyecto**
+Primero se debe entrar a la dirección del repositorio remoto al que deseamos clonar y usar el comando desde nuestro repositorio local: git clone seguido del URL del repositorio remoto.
+
+**Enlaces de los archivos de carpeta Docs**
+1. [link a uso_consola](./docs/uso_consola.md)
+2. [Link a repositorio_local](./docs/repositorio_local.md)
+3. [Link a repositorio_remoto](./docs/repositorio_remoto.md)
+
+
+# Evaluación
 ### **Descripción de la Actividad:**
 
 El objetivo de esta actividad es crear y estructurar un proyecto de programación utilizando Git y GitHub. Aunque el código fuente será un componente mínimo, el enfoque estará en la organización del proyecto y la documentación de lo aprendido sobre los siguientes temas:
