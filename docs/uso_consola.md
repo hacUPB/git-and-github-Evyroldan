@@ -18,3 +18,5 @@
 - Git status: Revisar el estado de los archivos en el repositorio
 - git commit -m ""  : Para adicionar commit.
 - Git push: Para enviar al repositorio remoto.
+
+![Captura de la consola](../images/Captura%20de%20pantalla%202025-07-24%20113405.png)
