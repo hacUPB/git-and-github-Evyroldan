@@ -1,0 +1,52 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de herramientas
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Archivos creados por editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Distribución / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Dependencias descargadas por pip
+pip-wheel-metadata/
+
+# Archivos de pruebas
+coverage.xml
+.cache/
+.tox/
+.nox/
+.pytest_cache/
+nosetests.xml
+test-results/
+
+# Configuración de entorno o variables sensibles
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
